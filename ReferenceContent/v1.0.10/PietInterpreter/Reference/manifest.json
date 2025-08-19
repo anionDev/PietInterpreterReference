@@ -1,0 +1,240 @@
+{
+  "homepages": [],
+  "source_base_path": "E:/Data/Projects/PietInterpreterBuild/Submodules/PietInterpreter/PietInterpreter/Other/Reference",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Hints.md",
+      "output": {
+        ".html": {
+          "relative_path": "Hints.html",
+          "hash": "9tL/PTlWCFRpatr1pdq06cq19Y98/YaqkzfdT5OG+QU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html",
+          "hash": "5cHcYeWDb5s+etXV8Foeqt3W+hwoLp9xvPnFp+N9Bjc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/Examples/Add.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Examples/Add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/Examples/ColorError.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Examples/ColorError.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/Examples/Countdown.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Examples/Countdown.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/Examples/DivideByZero.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Examples/DivideByZero.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/Examples/Endless.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Examples/Endless.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/Examples/HelloWorld.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Examples/HelloWorld.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/Examples/StackRoll.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Examples/StackRoll.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/GUI/GUI layout.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/GUI/GUI layout.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/GUI/GUI_Layout.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/GUI/GUI_Layout.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/GUI/countdown_GUI.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/GUI/countdown_GUI.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/poster.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/poster.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/images/poster.xcf",
+      "output": {
+        "resource": {
+          "relative_path": "images/poster.xcf"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Uuf+xqPq9Bw8r735y/EonRc49x8Zy1MzlqL5YtDZSRg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ReferenceContent/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "51uvS2Tzan82YmVZxrHsyRJsctd/LoldJMHQUFLbWxg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
